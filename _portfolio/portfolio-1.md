@@ -1,7 +1,7 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Understanding the Speed of Aging Amound Adults with Cerebral Palsy"
+excerpt: "Poster for UMAging Aging Initiative Symposium 1<br/><img src='/images/MICDA_poster_3_19_26.png'>"
 collection: portfolio
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+
