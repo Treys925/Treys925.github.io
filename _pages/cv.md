@@ -1,5 +1,5 @@
 <iframe 
-  src="/files/GitCV.pdf" 
+  src="GitCV.pdf" 
   width="100%" 
   height="600px" 
   style="border: none;">
