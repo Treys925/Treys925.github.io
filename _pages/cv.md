@@ -1,5 +1,3 @@
-
-
 <iframe 
   src="/files/GitCV.pdf" 
   width="100%" 
