@@ -1,7 +1,10 @@
 
 
-<embed src="/files/GitCV.pdf" width="800px" height="2100px" type="application/pdf">
-
-[![Download Button](https://shields.io)](https://github.com/Treys925/Treys925.github.io/blob/master/files/GitCV.pdf)
+<iframe 
+  src="./files/GitCV.pdf" 
+  width="100%" 
+  height="600px" 
+  style="border: none;">
+</iframe>
 
 
