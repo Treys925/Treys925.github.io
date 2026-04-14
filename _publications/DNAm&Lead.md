@@ -1,7 +1,7 @@
 ---
 title: "Associations between surrogates of prenatal lead DNA methylation and adolescent neural network architecture"
 collection: publications
-category: Journal Articles
+category: manuscripts
 date: 2026-02-13
 venue: 'Brain and Environment'
 paperurl: '[https://academicpages.github.io/files/paper3.pdf](https://www.sciencedirect.com/science/article/pii/S3050591726000014?via%3Dihub)'
