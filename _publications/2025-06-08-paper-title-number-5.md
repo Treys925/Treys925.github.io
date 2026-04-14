@@ -1,13 +1,11 @@
 ---
-title: "Paper Title Number 5, with math $$E=mc^2$$"
+title: "Associations between surrogates of prenatal lead DNA methylation and adolescent neural network architecture"
 collection: publications
-category: conferences
-permalink: /publication/2024-02-17-paper-title-number-4
-excerpt: 'This paper is about a famous math equation, $$E=mc^2$$'
-date: 2024-02-17
-venue: 'GitHub Journal of Bugs'
-paperurl: 'https://academicpages.github.io/files/paper3.pdf'
-citation: 'Your Name, You. (2024). &quot;Paper Title Number 3.&quot; <i>GitHub Journal of Bugs</i>. 1(3).'
+category: Peer-Reviewed
+date: 2026-03
+venue: 'Brain and Environment'
+paperurl: '[https://academicpages.github.io/files/paper3.pdf](https://www.sciencedirect.com/science/article/pii/S3050591726000014?via%3Dihub)'
+citation: 'Ryan Tung, Carly O’Neill, Trey Smith, Felicia A. Hardi, Leigh G. Goetschius, Edward D. Huntley, Helen C.S. Meier, Luke W. Hyde, Dan Notterman, Christopher S. Monk, Colter Mitchell, Associations between surrogates of prenatal lead DNA methylation and adolescent neural network architecture, Brain and Environment, Volume 5, 2026, 100013, ISSN 3050-5917, https://doi.org/10.1016/j.braen.2026.100013'
 ---
 
-Using [MathJax](https://www.mathjax.org/) in the description is supported - $$E=mc^2$$ - however, the use must be mindful that the default delimiters are `$$...$$` and `\\[...\\]` which differs from the `$...$` that is typically expected.
+
