@@ -1,20 +1,10 @@
 ---
-title: "Teaching experience 2"
+title: "Genomics for Social Scientists- Epigenetics (GeSS-Epi)"
 collection: teaching
-type: "Workshop"
-permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
-date: 2015-01-01
-location: "City, Country"
+type: "NIA-sponsored workshop"
+venue: "University of Michigan, Institute for Social Research"
+date: 2025-01-09
+location: "Ann Arbor MI, USA"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+Collecting genetic material for methylation analyses, quality control, data reduction (creating clocks and surrogate measures), EWAS, and available online resources.
