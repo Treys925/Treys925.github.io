@@ -3,6 +3,7 @@ title: "BMI Polyepigenetic Scores Predict Future Chronic Conditions and Choleste
 collection: talks
 type: "Talk"
 venue: "Gerontological Society of America"
+url: 'https://Treys925.github.io/files/GSA_Presentation_TS.pdf'
 date: 2023-11-01
 location: "Tampa, FL, USA"
 ---
