@@ -1,20 +1,10 @@
 ---
-title: "Teaching experience 1"
+title: "Genomics for Social Scientists (GeSS)"
 collection: teaching
-type: "Undergraduate course"
-permalink: /teaching/2014-spring-teaching-1
-venue: "University 1, Department"
-date: 2014-01-01
-location: "City, Country"
+type: "NIA-sponsored workshop"
+venue: "University of Michigan, Institute for Social Research"
+date: 2024-06-01
+location: "Ann Arbor MI, USA"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+Collecting genetic material, population stratification and admixture, quality control (estimating and interpreting minor allele frequency, Hardy-Weinberg equilibrium, heterozygosity, and linkage disequilibrium), imputation, GWAS and meta analyses, polygenic scores construction and use, gene-environment interactions, mendelian randomization, and genomic SEM.
