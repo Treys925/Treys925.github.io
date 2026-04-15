@@ -1,14 +1,9 @@
 ---
-title: "Paper Title Number 1"
+title: "Epigenome-Wide Analyses of Pubertal Development in Adolescence: Connections with Biological Aging"
 collection: publications
-category: manuscripts
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-slidesurl: 'https://academicpages.github.io/files/slides1.pdf'
-paperurl: 'https://academicpages.github.io/files/paper1.pdf'
-bibtexurl: 'https://academicpages.github.io/files/bibtex1.bib'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+category: conferences
+date: 2024-11-01
+venue: 'BEHAVIOR GENETICS'
+paperurl: '[https://www.nature.com/articles/s44220-024-00345-8](https://link.springer.com/article/10.1007/s10519-024-10197-8)'
+citation: 'Desteiguer, A. J., Smith, T., Goode, J., Willems, Y., Tucker-Drob, E. M., Raffington, L., ... & Harden, K. P. (2024, November). Epigenome-Wide Analyses of Pubertal Development in Adolescence: Connections with Biological Aging. In BEHAVIOR GENETICS (Vol. 54, No. 6, pp. 519-519). ONE NEW YORK PLAZA, SUITE 4600, NEW YORK, NY, UNITED STATES: SPRINGER.'
 ---
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
