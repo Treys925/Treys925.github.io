@@ -1,5 +1,5 @@
 ---
-title: "Epigenome-Wide Analyses of Pubertal Development in Adolescence: Connections with Biological Aging"
+title: "BMI Polyepigenetic Scores Predict Future Chronic Conditions and Cholesterol"
 collection: publications
 category: conferences
 date: 2023-12-21
