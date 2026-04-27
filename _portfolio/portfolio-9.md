@@ -4,4 +4,4 @@ excerpt: "American Association of Physical Anthropologists Poster Session <br/><
 collection: portfolio
 ---
 
-[View My Slides](https://Treys925.github.io/images/AAPA_Poster_H19_AC_edited.png)
+[View My Poster](https://Treys925.github.io/images/AAPA_Poster_H19_AC_edited.png)
