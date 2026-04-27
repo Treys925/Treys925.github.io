@@ -4,4 +4,4 @@ excerpt: "Poster for UMAging Aging Initiative Symposium <br/><img src='/images/M
 collection: portfolio
 ---
 
-
+[View My Poster](https://Treys925.github.io/images/MICDA_poster_3_19_26.png)
