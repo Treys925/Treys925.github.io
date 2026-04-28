@@ -7,3 +7,4 @@ date: 2026-01-09
 location: "Ann Arbor MI, USA"
 ---
 
+[Link to course](https://genomicsworkshop.isr.umich.edu/epigenetics/).
